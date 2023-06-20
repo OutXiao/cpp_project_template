@@ -5,7 +5,7 @@
             "name": "(gdb) Launch", //配置名称，会在启动配置的下拉菜单中显示
             "type": "cppdbg", //配置类型，只能为cppdbg
             "request": "launch", //请求类型，可以为launch或attach
-            "program": "${workspaceFolder}/bin/test", //将要调试的程序的路径【执行程序名不要遗漏了】
+            "program": "${workspaceFolder}/bin/teststr", //将要调试的程序的路径【执行程序名不要遗漏了】
             "args": [], //调试时传递给程序的命令行参数
             "stopAtEntry": false, //设为true程序会暂停在入口处
             "cwd": "${workspaceFolder}/build", //调试程序时的工作目录
