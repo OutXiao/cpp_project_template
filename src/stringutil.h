@@ -1,11 +1,3 @@
-/*
- * @Author: Jianqiang Feng jqfeng@birentech.com
- * @Date: 2023-06-16 17:22:09
- * @LastEditors: Jianqiang Feng jqfeng@birentech.com
- * @LastEditTime: 2023-06-20 15:36:15
- * @FilePath: /test/src/stringutil.h
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
- */
 
 #ifndef __STRING_UTIL_HEADER__
 #define __STRING_UTIL_HEADER__
